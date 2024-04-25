@@ -1,8 +1,9 @@
-# alurastart
+Meu nome é nome Kauã Almeida 
 
-Sejam bem vindos ao  meu repositório.
-Estou estudando alura.
-Estou me desenvolvendo na linguagem javaScript.
-Estou utilizando atualmente para p compartihamento dos meus projetos do alura.
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+Você pode entrar em contato comigo 📫
+alurastartestudante@email.com
 
-![](link)
+@alurastartestudante
